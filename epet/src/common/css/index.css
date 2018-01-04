@@ -1,0 +1,62 @@
+body {
+  line-height: 1.6;
+  font-family: 'Microsoft Yahei',-apple-system-font,Helvetica Neue,sans-serif;
+}
+.ft12 {
+font-size: 12px;
+}
+.ft13 {
+  font-size: 13px;
+}
+.ftc {
+  text-align: center;
+}
+.block, .db {
+display: block;
+}
+.c999 {
+  color: #999;
+}
+.c333 {
+  color: #333;
+}
+.pl5 {
+  padding-left: 5px;
+}
+.mt10, .mt {
+  margin-top: 10px;
+}
+.mt5 {
+  margin-top: 5px;
+}
+.sort-detail-list .hot-recom, .sort-detail-list .other-list {
+  padding: 15px 5px 20px;
+}
+.sort-detail-list .hot-recom ul li, .sort-detail-list .other-list ul li {
+  width: 33.33%;
+  padding: 0 5px;
+  text-align: center;
+  box-sizing: border-box;
+}
+.fl, .pull-left {
+  float: left;
+}
+img {
+  vertical-align: middle;
+}
+a img {
+  border: 0;
+}
+.w100 {
+  width: 100%;
+}
+.bgfff {
+  background: #fff;
+}
+.loadimg-nofixed .image {
+  top: 0;
+  left: 0;
+  position: absolute;
+}
+
+
