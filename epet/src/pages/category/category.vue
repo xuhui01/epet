@@ -1,14 +1,14 @@
 <template>
   <div>
-    <el-tabs v-model="activeName">
-      <el-tab-pane label="分类" name="first">
-        <leftItem :categorys="categorys" />
-        <rightItem :rightdatas="rightdatas" />
-      </el-tab-pane>
-      <el-tab-pane label="品牌" name="second">
-        <brand />
-      </el-tab-pane>
-    </el-tabs>
+      <el-tabs v-model="activeName">
+        <el-tab-pane label="分类" name="first">
+          <leftItem :categorys="categorys" />
+          <rightItem :rightdatas="rightdatas" />
+        </el-tab-pane>
+        <el-tab-pane label="品牌" name="second">
+          <brand />
+        </el-tab-pane>
+      </el-tabs>
 
   </div>
 </template>
@@ -62,9 +62,7 @@
 <style lang="stylus" rel="stylesheet/stylus">
   body
     background-color #f3f4f5
-  .scrollbar-none::-webkit-scrollbar
-    height: 0
-    width: 0
-  .el-tabs__nav
+  .el-tabs__nav {
     transform: translateX(145px) !important
+  }
 </style>

@@ -2,6 +2,7 @@
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 import Vue from 'vue'
 import {Tabs, TabPane} from 'element-ui'
+import { Swipe, SwipeItem } from 'mint-ui';
 import App from './app.vue'
 import router from './router'
 
@@ -13,6 +14,8 @@ Vue.config.productionTip = false;
 
 Vue.use(Tabs);
 Vue.use(TabPane);
+Vue.component(Swipe.name, Swipe);
+Vue.component(SwipeItem.name, SwipeItem);
 
 /* eslint-disable no-new */
 new Vue({

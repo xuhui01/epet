@@ -30,7 +30,8 @@ footer, header, menu, nav, section {
 }
 
 body {
-  line-height: 1;
+  line-height: 1.6;
+  font-family: 'Microsoft Yahei',-apple-system-font,Helvetica Neue,sans-serif;
 }
 
 blockquote, q {
@@ -60,8 +61,8 @@ li {
 }
 
 ::-webkit-scrollbar {
-  width: 5px;
-  height: 5px;
+  width: 0;
+  height: 0;
 }
 
 ::-webkit-scrollbar-track-piece {

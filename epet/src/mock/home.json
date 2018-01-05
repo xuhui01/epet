@@ -4,7 +4,7 @@
     "login_status": 0,
     "mall_uid": "epet_0",
     "mall_user": "",
-    "sys_time": 1515049091,
+    "sys_time": 1515152011,
     "hash": "",
     "epet_site": "epet",
     "is_dynamic": 0,
@@ -205,13 +205,13 @@
                     }
                 },
                 {
-                    "advid": "25399",
+                    "advid": "25528",
                     "atid": "0",
-                    "image": "https://img2.epetbar.com/nowater/2017-12/26/15/5318c152657333b9883b6850ae451d91.jpg@!water",
+                    "image": "https://img2.epetbar.com/nowater/2018-01/03/20/3c9c790789c55505752803b73612bc11.jpg@!water",
                     "img_size": "750x320",
                     "target": {
                         "mode": "web",
-                        "param": "http://sale.epet.com/m/mould/activity/ztMzQ1NA%3D%3D.html?tid=3454"
+                        "param": "http://sale.epet.com/m/mould/activity/ztMzk0NQ%3D%3D.html?tid=3945"
                     }
                 },
                 {
@@ -242,16 +242,6 @@
                     "target": {
                         "mode": "web",
                         "param": "http://sale.epet.com/m/mould/activity/ztMzY2NA%3D%3D.html?tid=3664"
-                    }
-                },
-                {
-                    "advid": "25508",
-                    "atid": "0",
-                    "image": "https://img2.epetbar.com/nowater/2018-01/03/18/832324025aec3252b6b4dfd9eaa88fe4.jpg@!water",
-                    "img_size": "750x320",
-                    "target": {
-                        "mode": "web",
-                        "param": "http://sale.epet.com/m/mould/activity/ztMzY2Mg%3D%3D.html?tid=3662"
                     }
                 }
             ]
@@ -427,9 +417,9 @@
             "content_images": [
                 [
                     {
-                        "advid": "25330",
+                        "advid": "25539",
                         "atid": "0",
-                        "image": "https://img2.epetbar.com/nowater/2017-12/29/09/40a34e523895d1768bbc82b7e3968290.jpg@!water",
+                        "image": "https://img2.epetbar.com/nowater/2018-01/04/13/88eef4942d8457fed38ae8f8fd00aaa7.jpg@!water",
                         "img_size": "750x370",
                         "target": {
                             "mode": "web",
@@ -582,7 +572,7 @@
                     "time": "01:36",
                     "video_size": "11.86",
                     "link": "http://player.epetbar.com/3ff23e46ee694aecbb8537bc5b7e50e9/7880826fefd743298e0e257e77fc68a5-5287d2089db37e62345123a1be272f8b.mp4",
-                    "visit": 117714,
+                    "visit": 120188,
                     "visit_img": {
                         "image": "https://static.epetbar.com/static_web/wap/dist/images/views-gray.png",
                         "img_size": "30x25"
@@ -677,13 +667,13 @@
             "type_name": "图片轮播广告",
             "value": [
                 {
-                    "advid": "25461",
+                    "advid": "25462",
                     "atid": "0",
-                    "image": "https://img2.epetbar.com/nowater/2017-12/31/15/a8bd3b4e160af7ae5d53cc789b1c1c35.jpg@!water",
+                    "image": "https://img2.epetbar.com/nowater/2017-12/31/15/5ab9d9dd06c904e077a749cb9f4ebe14.jpg@!water",
                     "img_size": "750x320",
                     "target": {
                         "mode": "web",
-                        "param": "http://sale.epet.com/m/mould/activity/sMzY0Mw%3D%3D.html?tid=3643"
+                        "param": "http://sale.epet.com/m/mould/activity/sMzY0NA%3D%3D.html?tid=3644"
                     }
                 }
             ]
@@ -788,6 +778,55 @@
         },
         {
             "index": "2955",
+            "is_show": 1,
+            "type": "100",
+            "is_dynamic": "0",
+            "type_name": "模块分割线",
+            "value": {
+                "image": "",
+                "img_size": "750x25",
+                "target": {}
+            }
+        },
+        {
+            "index": "2954",
+            "is_show": 1,
+            "type": "13",
+            "is_dynamic": "0",
+            "type_name": "通用广告模板",
+            "left_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "center_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "right_image": {
+                "image": "",
+                "img_size": "",
+                "target": {}
+            },
+            "show_line": "0",
+            "content_images": [
+                [
+                    {
+                        "advid": "25541",
+                        "atid": "0",
+                        "image": "https://img1.epetbar.com/2018-01/04/15/8d771e75f81eb050355213d3ffae4842.jpg@!water",
+                        "img_size": "750x320",
+                        "target": {
+                            "mode": "web",
+                            "param": "http://sale.epet.com/m/mould/activity/ztMzk0Nw%3D%3D.html?tid=3947"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "index": "2957",
             "is_show": 1,
             "type": "100",
             "is_dynamic": "0",
@@ -1299,7 +1338,7 @@
                     "time": "02:15",
                     "video_size": "15.85",
                     "link": "http://player.epetbar.com/11d1f4ac97e54ffe8fad18c496696a1f/edafe7c5e932419787cce9350af66d17-5287d2089db37e62345123a1be272f8b.mp4",
-                    "visit": 52366,
+                    "visit": 54067,
                     "visit_img": {
                         "image": "https://static.epetbar.com/static_web/wap/dist/images/views-gray.png",
                         "img_size": "30x25"
@@ -1399,7 +1438,7 @@
                     "time": "00:41",
                     "video_size": "4.55",
                     "link": "http://player.epetbar.com/0eadfd59bff741f6b7e6a34750b65aef/a0b00d725ef843ce8288e60779de6e66-5287d2089db37e62345123a1be272f8b.mp4",
-                    "visit": 18814,
+                    "visit": 19978,
                     "visit_img": {
                         "image": "https://static.epetbar.com/static_web/wap/dist/images/views-gray.png",
                         "img_size": "30x25"
